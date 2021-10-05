@@ -1,0 +1,9 @@
+.ContactList {
+  padding: 5px;
+  list-style: none;
+}
+.item {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
